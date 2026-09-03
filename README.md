@@ -1,6 +1,6 @@
 # 🛒 3Z Insta Cart - Python / Flask E-Commerce REST API
 
-A production-grade, idiomatic **Python + Flask** REST API for **3Z Insta Cart**, an instant grocery & e-commerce shopping platform matching the full functionality and business rules of the Spring Boot edition.
+A production-grade,  **Python + Flask** REST API for **3Z Insta Cart**, an instant grocery & e-commerce shopping platform matching the full functionality and business rules of the Spring Boot edition.
 
 ---
 
