@@ -1,0 +1,26 @@
+import enum
+
+class Category(str, enum.Enum):
+    PRODUCE = "PRODUCE"
+    DAIRY_EGGS = "DAIRY_EGGS"
+    BAKERY = "BAKERY"
+    BEVERAGES = "BEVERAGES"
+    SNACKS = "SNACKS"
+    PANTRY = "PANTRY"
+    MEAT_SEAFOOD = "MEAT_SEAFOOD"
+    FROZEN = "FROZEN"
+    HOUSEHOLD = "HOUSEHOLD"
+
+class OrderStatus(str, enum.Enum):
+    PENDING = "PENDING"
+    CONFIRMED = "CONFIRMED"
+    PREPARING = "PREPARING"
+    OUT_FOR_DELIVERY = "OUT_FOR_DELIVERY"
+    DELIVERED = "DELIVERED"
+    CANCELLED = "CANCELLED"
+
+class PaymentStatus(str, enum.Enum):
+    PENDING = "PENDING"
+    PAID = "PAID"
+    FAILED = "FAILED"
+    REFUNDED = "REFUNDED"
