@@ -40,7 +40,7 @@ def create_app(config_name=None):
             "description": "High-performance Python/Flask RESTful API for 3Z Insta Cart instant grocery & e-commerce shopping, cart management, inventory tracking, and order fulfillment.",
             "contact": {
                 "name": "3Z Insta Cart Engineering",
-                "email": "engineering@threez-instacart.com"
+                "email": "oniicoder@gmail.com"
             },
             "version": "1.0.0"
         }
