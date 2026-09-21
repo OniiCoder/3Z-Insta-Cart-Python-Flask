@@ -39,7 +39,7 @@ A production-grade,  **Python + Flask** REST API for **3Z Insta Cart**, an insta
 
 ### 1. Activate Virtual Environment
 ```bash
-cd /Users/peterperez/Documents/PythonProjects/3z-insta-cart
+cd /project_path/3z-insta-cart
 source .venv/bin/activate
 ```
 
